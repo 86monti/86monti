@@ -1,16 +1,71 @@
-## Hi there 👋
+# Danny Hedayati
 
-<!--
-**86monti/86monti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at RMIT University  
+Backend-focused software engineering student interested in APIs, systems design, and performance-oriented software.
 
-Here are some ideas to get you started:
+Currently building backend systems and learning production-grade development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Project
+
+FleetLog – Vehicle Maintenance API
+
+Tech stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- JWT Authentication
+- REST APIs
+
+Features:
+- user authentication
+- vehicle management
+- maintenance logging
+- service history queries
+- containerised deployment
+
+---
+
+## Tech Stack
+
+Languages
+Python, Java, SQL
+
+Backend
+FastAPI, Spring Boot
+
+Database
+PostgreSQL
+
+Tools
+Docker, Git, REST APIs, Linux
+
+---
+
+## Projects
+
+FleetLog  
+Backend API for vehicle maintenance tracking.
+
+Features:
+- JWT authentication
+- relational schema design
+- filtered service history queries
+- OpenAPI documentation
+
+---
+
+## Interests
+
+- backend engineering
+- performance systems
+- automotive engineering
+- simulation and telemetry
+
+---
+
+## Connect
+
+LinkedIn: (add your new linkedin link)
