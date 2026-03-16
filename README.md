@@ -34,36 +34,13 @@ Tech stack:
 
 ## Technical Skills
 
-**Languages**
-- Python
-- Java
-- C++
-- TypeScript
-- Swift
-- SQL
-
-**Backend Development**
-- FastAPI
-- REST API design
-- JWT authentication
-- relational schema design
-
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-
-**Databases**
-- PostgreSQL
-
-**Tools**
-- Docker
-- Git
-- GitHub Actions
-- Linux
-- OpenAPI / Swagger
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C++, TypeScript, Swift, SQL |
+| Backend | FastAPI, REST API design, JWT authentication, relational schema design |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS |
+| Databases | PostgreSQL |
+| Tools | Docker, Git, GitHub Actions, Linux, OpenAPI / Swagger |
 
 ---
 
